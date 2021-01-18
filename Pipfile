@@ -7,6 +7,9 @@ name = "pypi"
 django = "*"
 graphene-django = "*"
 djongo = "*"
+django-graphql-jwt = "==0.3.0"
+pyjwt = "==1.7.1"
+django-graphql-auth = "*"
 
 [dev-packages]
 autopep8 = "*"
